@@ -1,0 +1,110 @@
+.{
+    padding: auto;
+    margin: auto;
+}
+nav {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.navb {
+    width: 100%;
+    position: fixed;
+    background-color: rgba(145, 255, 0, 0.812);
+    padding: 30px;
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: large;
+    border-radius: 10px;
+    
+}
+a {
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.L{
+    padding-top:10px ;
+  background-image: url(v2.jpeg);
+  height: 1500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1em;
+ 
+}
+.volonte {
+    padding: 5em;
+    font-size: 60px;
+    color: papayawhip;
+    margin-left: 300px;
+}
+.h1{
+    text-decoration-line: overline;
+    text-decoration-color: antiquewhite;
+    text-transform: inherit;
+}
+.ss {
+    text-align: center;
+    font-size: larger;
+    font-size: 3em;
+    background-color: rgba(145, 255, 0, 0.812);
+    padding-top: 4em;
+    padding-bottom: 14em;
+}
+.enh{
+    padding-bottom: 2em;
+    
+}
+.enh > p {
+    margin-bottom: -10em;
+}
+.enh > h3{
+    margin-top: -120px;
+
+}
+.enh > h1 {
+    color: orange;
+}
+.box > p {
+    color: rgb(204, 255, 0);
+    display: inline;
+    padding-right: 6em;
+    text-align: center;
+    box-shadow: inset;
+    padding-left: 5em;
+    padding-top: 40px;
+    padding-bottom: 600px;
+    border-radius: 10px;
+}
+.p1{
+    background-image: url(Programinf.jpeg);
+    display: block;
+}
+.p2{
+    background-image: url(web\ design\).jpeg);
+}
+.p3{
+    background-image: url(v2\ \(1\).jpeg);
+}
+.box {
+
+    margin-top: 600px; 
+}
+footer {
+    border-top: 20px black;
+}
+.fin {
+    padding: 100px;
+    background-color: bisque;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+}
+.box__footer{
+    font-size: large 60px;
+}
+h2 {
+    font-size: 3em;
+    
+}
+
